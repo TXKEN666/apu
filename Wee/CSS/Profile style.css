@@ -1,0 +1,214 @@
+* {
+    font-family: Arial, Helvetica
+}
+
+.containername h3{
+    color: aliceblue;
+   margin-left: 60px;
+}
+
+body {
+    background-color: #37393f;
+    position: absolute;
+}
+
+
+
+.submit {
+    position: absolute;
+    display: inline-block;
+    margin-left: 1160px;
+    margin-top: 10px;
+    text-decoration: none;
+    border: 0;
+    background-color: #37393f;
+    padding: 15px;
+    color: #fff;
+    font-size: 16px;
+    border-radius: 25px;
+    width: 100px;
+    box-shadow: 0 0 20px rgba(201, 199, 253, 0.5);
+}
+
+.container {
+    background-color: #2f3136;
+    height: 240px;
+    width: 1310px;
+    border-radius: 25px;
+}
+
+.home {
+    margin: 50px;
+    margin-left: 90px;
+}
+
+.chat {
+    margin: 50px;
+    margin-right: 3px;
+}
+
+.user {
+    margin: 50px;
+    margin-right: 50px;
+}
+
+.settings {
+    margin: 50px;
+    margin-left: 6%;
+}
+
+.add {
+    margin: 50px;
+}
+
+.containerpfp {
+    background-color: #2f3136;
+    height: 300px;
+    width: 300px;
+    border-radius: 25px;
+    margin: 30px;
+}
+
+.pfp {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+}
+
+.containername {
+    background-color: #2f3136;
+    height: 100px;
+    width: 240px;
+    border-radius: 25px;
+    margin-left: 280px;
+}
+
+.containerbio {
+    background-color: #2f3136;
+    height: 100px;
+    width: 430px;
+    border-radius: 25px;
+    margin-left: 30px;
+}
+
+.containerbio h3{
+    color: aliceblue;
+    margin-left: 60px;
+    
+}
+
+/*.containeradd {
+    background-color: #2f3136;
+    height: 200px;
+    width: 200px;
+    border-radius: 25px;
+    margin-left: 960px;
+    margin-top: 70px;
+}
+
+.new {
+    height: 200px;
+    width: 200px;
+}*/
+
+.user1 {
+
+    margin: 30px;
+    width: 64px;
+    height: 64px;
+    border-radius: 25px;
+}
+
+.chat1 { 
+    position: absolute;
+    background-color: seagreen;
+    margin: 50px;
+    height: 200px;
+    width: 700px;
+    border-radius: 25px;
+    display: flex;
+}
+
+.chat1 h2 {
+    margin: 30px;
+}
+
+.chat1 h3 {
+    margin: 100px;
+    margin-top: 120px;
+    margin-right: 200px;
+    margin-left: -200px;
+}
+
+.chat11 {
+    width: 32px;
+    height: 32px;
+    margin-right: 20px;
+    margin-top: 160px;
+}
+
+.chat12 {
+    width: 32px;
+    height: 32px;
+   margin-right: 20px;
+    margin-top: 160px;
+}
+
+.chat13 {
+    width: 32px;
+    height: 32px;
+    margin-right: 30px;
+    margin-top: 20px;
+}
+
+
+.user2 {
+
+    margin: 30px;
+    width: 64px;
+    height: 64px;
+    border-radius: 25px;
+}
+
+.chat2 { 
+    position: absolute;
+    background-color: darkkhaki;
+    margin: 300px;
+    height: 200px;
+    width: 700px;
+    border-radius: 25px;
+    margin-left: 50px;
+    display: flex;
+}
+
+.chat2 h2 {
+    margin: 30px;
+}
+
+.chat2 h3 {
+    margin: 100px;
+    margin-top: 120px;
+    margin-right: 230px;
+    margin-left: -230px;
+}
+
+.chat21 {
+    width: 32px;
+    height: 32px;
+    margin-left: 70px;
+    margin-top: 160px;
+}
+
+.chat22 {
+    width: 32px;
+    height: 32px;
+   margin-left: 20px;
+    margin-top: 160px;
+}
+
+.chat23 {
+    width: 32px;
+    height: 32px;
+    margin-left: 20px;
+    margin-top: 20px;
+}

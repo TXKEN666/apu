@@ -1,0 +1,275 @@
+* {
+    font-family: Arial, Helvetica
+}
+
+body {
+    background-color: #37393f;
+    position: absolute;
+}
+
+
+
+.submit {
+    position: absolute;
+    display: inline-block;
+    margin-left: 1160px;
+    margin-top: 10px;
+    text-decoration: none;
+    border: 0;
+    background-color: #37393f;
+    padding: 15px;
+    color: #fff;
+    font-size: 16px;
+    border-radius: 25px;
+    width: 100px;
+    box-shadow: 0 0 20px rgba(201, 199, 253, 0.5);
+}
+
+.container {
+    background-color: #2f3136;
+    height: 240px;
+    width: 1310px;
+    border-radius: 25px;
+}
+
+.home {
+    margin: 50px;
+    margin-left: 90px;
+}
+
+.chat {
+    margin: 50px;
+    margin-right: 3px;
+}
+
+.pfp {
+    margin: 50px;
+    margin-right: 50px;
+}
+
+.settings {
+    margin: 50px;
+    margin-left: 6%;
+}
+
+.postear {
+    display: flex;
+    background-color: #2f3136;
+    margin: 50px;
+    margin-right: 10px;
+    height: 100px;
+    width: 100px;
+    border-radius: 25px;
+}
+
+.friend {
+    background-color: #2f3136;
+    height: 128px;
+    width: 128px;
+    margin-left: 1000px; 
+    border-radius: 25px;
+}
+
+.add {
+    margin: 50px;
+}
+
+.Virgen {
+
+    margin: 30px;
+    width: 64px;
+    height: 64px;
+    border-radius: 25px;
+}
+
+.chat1 { position: absolute;
+    background-color: aquamarine;
+    margin: 50px;
+    height: 200px;
+    width: 700px;
+    border-radius: 25px;
+    display: flex;
+}
+
+.chat1 h2 {
+    margin: 30px;
+}
+
+.chat1 h3 {
+    margin: 100px;
+    margin-top: 120px;
+    margin-right: 200px;
+    margin-left: -200px;
+}
+
+.chat11 {
+    width: 32px;
+    height: 32px;
+    margin-left: 60px;
+    margin-right: -60px;
+    margin-top: 160px;
+}
+
+.chat12 {
+    width: 32px;
+    height: 32px;
+    margin-left: 80px;
+    margin-right: -80px;
+    margin-top: 160px;
+}
+
+.chat13 {
+    width: 32px;
+    height: 32px;
+    margin-left: 90px;
+    margin-right: -90px;
+    margin-top: 20px;
+}
+
+.chad {
+    margin: 30px;
+    width: 64px;
+    height: 64px;
+    border-radius: 25px;
+}
+
+.chat2 {
+    position: absolute;
+    background-color: #ff6c7a;
+    display: flex;
+    margin-bottom: 400px;
+    margin: 290px;
+    height: 220px;
+    margin-left: 50px;
+    width: 700px;
+    border-radius: 25px;
+}
+
+.chat2 h2 {
+    margin: 30px;
+}
+
+.chat2 h3 {
+    margin: 100px;
+    margin-top: 120px;
+    margin-right: 200px;
+    margin-left: -200px;
+}
+
+.chat21 {
+    width: 32px;
+    height: 32px;
+    margin-right: 20px;
+    margin-top: 180px;
+}
+
+.chat22 {
+    width: 32px;
+    height: 32px;
+    margin-right: 10px;
+    margin-top: 180px;
+}
+
+.chat23 {
+    width: 32px;
+    height: 32px;
+    margin-right:20px;
+    margin-top: 20px;
+}
+
+.yo {
+    margin: 30px;
+    width: 64px;
+    height: 64px;
+    border-radius: 25px;
+}
+
+.chat3 {
+    position: absolute;
+    background-color: blueviolet;
+    display: flex;
+    margin: 800px;
+    margin-left: 50px;
+    height: 220px;
+    width: 700px;
+    border-radius: 25px;
+}
+
+.chat3 h2 {
+    margin: 30px;
+}
+
+.chat3 h3 {
+    margin: 100px;
+    margin-top: 130px;
+    margin-left: -270px;
+}
+
+.chat31 {
+    width: 32px;
+    height: 32px;
+    margin-left:  120px;
+    margin-top: 180px;
+}
+
+.chat32 {
+    width: 32px;
+    height: 32px;
+    margin-left: 20px;
+    margin-top: 180px;
+}
+
+.chat33 {
+    width: 32px;
+    height: 32px;
+  
+    margin-top: 20px;
+}
+
+.ana {
+    margin: 30px;
+    width: 64px;
+    height: 64px;
+    border-radius: 25px;
+}
+
+.chat4 {
+    position: absolute;
+    background-color: #d1ef84;
+    display: flex;
+    margin: 550px;
+    margin-left: 50px;
+    height: 220px;
+    width: 700px;
+    border-radius: 25px;
+}
+
+.chat4 h2 {
+    margin: 30px;
+}
+
+.chat4 h3 {
+    margin: 100px;
+    margin-top: 130px;
+    margin-left: -270px;
+}
+
+.chat41 {
+    width: 32px;
+    height: 32px;
+    margin-left: 60px;
+    margin-top: 180px;
+}
+
+.chat42 {
+    width: 32px;
+    height: 32px;
+    margin-left: 20px;
+    margin-top: 180px;
+}
+
+.chat43 {
+    width: 32px;
+    height: 32px;
+    margin-top: 20px;
+}

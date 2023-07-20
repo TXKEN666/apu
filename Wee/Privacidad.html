@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>settings</title>
+    <link rel="stylesheet" href="CSS/Settings style.css">
+
+    <style>
+        .opt_priv{
+            background-color: #2f3136;
+            height: 50hv;
+            margin: 5%;
+            border-radius: 25px;
+            display: flex;
+            flex-direction: column;
+            justify-content:center;
+            align-items: center;
+            color: white;
+           
+
+        }
+        .btnatras{
+
+display: block;
+width: 50px;
+background-color: #2f3136;
+border-radius: 10px;
+padding: 15px 30px;
+margin: 10px 10px;
+color: white;
+text-decoration: none;
+
+}
+
+
+
+    </style>
+</head>
+<body>
+    <a class="btnatras" href="Setting.html">atras</a>
+
+    <div class="container">
+        <a class="submit" href="Login.html">Cerrar Sesion</a>
+        <a class="home" href="Home.html"><img src="IMG/home-7-128.png" alt=""></a>
+        <a class="pfp" href="Profile.html"><img src="IMG/user-128.png"alt=""></a>
+        <img src="IMG/add-128.png" class="add" alt="">
+        <img src="IMG/chat-2-128.png" class="chat" alt="">
+        <img src="IMG/settings-10-128.png" class="settings" alt="">
+    </div>
+
+    <div class="opt_priv">
+        <p style="color:white; font-size: 20px;">Personas que visualizaran tus publicaciones</p>
+        <form>
+            <input type="radio" name="option" value="1" checked> Todos
+
+            <input type="radio" name="option" value="2"> Solo amigos
+
+            <input type="radio" name="option" value="2"> Nadie
+
+        </form>
+        <p style="color:white; font-size: 20px;">Personas que podran comentar en tus publicaciones</p>
+        <form>
+            <input type="radio" name="option1" value="1" checked> Todos
+
+            <input type="radio" name="option1" value="2"> Solo amigos
+
+            <input type="radio" name="option1" value="2"> Nadie
+
+        </form>
+        
+        <p style="color:white; font-size: 20px;">Personas que veran tu lista de amigos</p>
+        <form>
+            <input type="radio" name="option2" value="1" checked> Todos
+
+            <input type="radio" name="option2" value="2"> Solo amigos
+
+            <input type="radio" name="option2" value="2"> Nadie
+
+        </form>
+        
+        <p style="color:white; font-size: 20px;">Personas que veran tu actividad</p>
+        <form>
+            <input type="radio" name="option3" value="1" checked> Todos
+
+            <input type="radio" name="option3" value="2"> Solo amigos
+
+            <input type="radio" name="option3" value="2"> Nadie
+
+        </form>
+        <p style= "color:white; font-size: 20px;">Mostrar el activo</p>
+        <form>
+            <input type="radio" name="option4" value="1"> No
+
+            <input type="radio" name="option4" value="2"> Si
+
+
+        </form>
+    </div>
+
+
+</body>
+</html>

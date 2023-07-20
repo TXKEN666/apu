@@ -1,0 +1,65 @@
+* {
+    font-family: Arial, Helvetica
+}
+
+.containername h3{
+    color: aliceblue;
+   margin-left: 60px;
+}
+
+body {
+    background-color: #37393f;
+    position: absolute;
+}
+
+.submit {
+    position: absolute;
+    display: inline-block;
+    margin-left: 1160px;
+    margin-top: 10px;
+    text-decoration: none;
+    border: 0;
+    background-color: #37393f;
+    padding: 15px;
+    color: #fff;
+    font-size: 16px;
+    border-radius: 25px;
+    width: 100px;
+    box-shadow: 0 0 20px rgba(201, 199, 253, 0.5);
+}
+
+.container {
+    background-color: #2f3136;
+    height: 240px;
+    width: 1310px;
+    border-radius: 25px;
+}
+
+.home {
+    margin: 50px;
+    margin-left: 90px;
+}
+
+.chat {
+    margin: 50px;
+    margin-right: 3px;
+}
+
+.user {
+    margin: 50px;
+    margin-right: 50px;
+}
+
+.settings {
+    margin: 50px;
+    margin-left: 6%;
+}
+
+.add {
+    margin: 50px;
+}
+
+.pfp {
+    margin: 50px;
+    margin-right: 50px;
+}
